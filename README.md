@@ -5,3 +5,5 @@
 ### Carlos Andres Gutieerez Benavides - 2200184
 
 Los suscriptores 1,2 y 3 son para una conexión distribuída, y los suscriptores 4,5 y 6 para una conexión local
+
+Vídeo explicativo disponible en : https://youtu.be/bD1wUGxTFuo
